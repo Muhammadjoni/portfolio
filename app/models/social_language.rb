@@ -1,0 +1,2 @@
+class SocialLanguage < ApplicationRecord
+end
